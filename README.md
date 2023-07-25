@@ -1,1 +1,1 @@
-this is readme file for simple shell project
+C - Simple Shell TEAM PROJECT by Soufiane and Jackson
